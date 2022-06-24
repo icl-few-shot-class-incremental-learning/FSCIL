@@ -1,2 +1,4 @@
 # FSCIL
-This repository contains codes, data, and models for competition sponsored by LG Display &amp; Yonsei University
+This repository contains codes, data, and models for competition sponsored by LG Display &amp; Yonsei University.
+
+Contents will be uploaded..!
