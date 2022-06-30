@@ -1,9 +1,7 @@
 # FSCIL
 This repository contains codes, data, and models for competition sponsored by LG Display &amp; Yonsei University.
 
-Contents will be uploaded..!
-
-For development and research, we refer to below papers, links, ...
+For development and research, we refered to below papers, links, ...
 
 <https://github.com/xialeiliu/Awesome-Incremental-Learning>   
 <https://github.com/thunlp/PromptPapers>   
