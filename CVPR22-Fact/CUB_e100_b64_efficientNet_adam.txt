@@ -1,0 +1,386 @@
+manual seed: 1
+{'alpha': 0.5,
+ 'balance': 0.01,
+ 'base_mode': 'ft_cos',
+ 'batch_size_base': 64,
+ 'batch_size_new': 0,
+ 'dataroot': './data',
+ 'dataset': 'cub200',
+ 'debug': False,
+ 'decay': 0.0005,
+ 'epochs_base': 100,
+ 'epochs_new': 100,
+ 'eta': 0.1,
+ 'gamma': 0.1,
+ 'gpu': '0,1',
+ 'loss_iter': 50,
+ 'lr_base': 0.005,
+ 'lr_new': 0.1,
+ 'milestones': [60, 70],
+ 'model_dir': None,
+ 'momentum': 0.9,
+ 'new_mode': 'avg_cos',
+ 'not_data_init': False,
+ 'num_workers': 8,
+ 'project': 'fact',
+ 'schedule': 'Cosine',
+ 'seed': 1,
+ 'set_no_val': False,
+ 'start_session': 0,
+ 'step': 20,
+ 'temperature': 16.0,
+ 'test_batch_size': 100}
+use gpu: [0, 1]
+torch.Size([100, 1000])
+self.dummy_orthogonal_classifier.weight initialized over.
+random init params
+session # :  0
+new classes for this session:
+ [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+ 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95
+ 96 97 98 99]
+manual seed: 1
+{'alpha': 0.5,
+ 'balance': 0.01,
+ 'base_mode': 'ft_cos',
+ 'batch_size_base': 64,
+ 'batch_size_new': 0,
+ 'dataroot': './data',
+ 'dataset': 'cub200',
+ 'debug': False,
+ 'decay': 0.0005,
+ 'epochs_base': 100,
+ 'epochs_new': 100,
+ 'eta': 0.1,
+ 'gamma': 0.1,
+ 'gpu': '0,1',
+ 'loss_iter': 50,
+ 'lr_base': 0.005,
+ 'lr_new': 0.1,
+ 'milestones': [60, 70],
+ 'model_dir': None,
+ 'momentum': 0.9,
+ 'new_mode': 'avg_cos',
+ 'not_data_init': False,
+ 'num_workers': 8,
+ 'project': 'fact',
+ 'schedule': 'Cosine',
+ 'seed': 1,
+ 'set_no_val': False,
+ 'start_session': 0,
+ 'step': 20,
+ 'temperature': 16.0,
+ 'test_batch_size': 100}
+use gpu: [0, 1]
+torch.Size([100, 1000])
+self.dummy_orthogonal_classifier.weight initialized over.
+random init params
+session # :  0
+new classes for this session:
+ [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+ 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95
+ 96 97 98 99]
+manual seed: 1
+{'alpha': 0.5,
+ 'balance': 0.01,
+ 'base_mode': 'ft_cos',
+ 'batch_size_base': 64,
+ 'batch_size_new': 0,
+ 'dataroot': './data',
+ 'dataset': 'cub200',
+ 'debug': False,
+ 'decay': 0.0005,
+ 'epochs_base': 100,
+ 'epochs_new': 100,
+ 'eta': 0.1,
+ 'gamma': 0.1,
+ 'gpu': '0,1',
+ 'loss_iter': 50,
+ 'lr_base': 0.005,
+ 'lr_new': 0.1,
+ 'milestones': [60, 70],
+ 'model_dir': None,
+ 'momentum': 0.9,
+ 'new_mode': 'avg_cos',
+ 'not_data_init': False,
+ 'num_workers': 8,
+ 'project': 'fact',
+ 'schedule': 'Cosine',
+ 'seed': 1,
+ 'set_no_val': False,
+ 'start_session': 0,
+ 'step': 20,
+ 'temperature': 16.0,
+ 'test_batch_size': 100}
+use gpu: [0, 1]
+torch.Size([100, 1000])
+self.dummy_orthogonal_classifier.weight initialized over.
+random init params
+session # :  0
+new classes for this session:
+ [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+ 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95
+ 96 97 98 99]
+manual seed: 1
+{'alpha': 0.5,
+ 'balance': 0.01,
+ 'base_mode': 'ft_cos',
+ 'batch_size_base': 64,
+ 'batch_size_new': 0,
+ 'dataroot': './data',
+ 'dataset': 'cub200',
+ 'debug': False,
+ 'decay': 0.0005,
+ 'epochs_base': 100,
+ 'epochs_new': 100,
+ 'eta': 0.1,
+ 'gamma': 0.1,
+ 'gpu': '1,0',
+ 'loss_iter': 50,
+ 'lr_base': 0.005,
+ 'lr_new': 0.1,
+ 'milestones': [60, 70],
+ 'model_dir': None,
+ 'momentum': 0.9,
+ 'new_mode': 'avg_cos',
+ 'not_data_init': False,
+ 'num_workers': 8,
+ 'project': 'fact',
+ 'schedule': 'Cosine',
+ 'seed': 1,
+ 'set_no_val': False,
+ 'start_session': 0,
+ 'step': 20,
+ 'temperature': 16.0,
+ 'test_batch_size': 100}
+use gpu: [1, 0]
+torch.Size([100, 1000])
+self.dummy_orthogonal_classifier.weight initialized over.
+random init params
+session # :  0
+new classes for this session:
+ [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+ 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95
+ 96 97 98 99]
+epo 0, test, loss=4.8390 acc=0.0307
+********A better model is found!!**********
+Saving model to :checkpoint/cub200/fact/ft_cos-avg_cos-data_init-start_0/Cosine-Epo_100-Lr_0.0050Bal0.01-LossIter50-T_16.00/session0_max_acc.pth
+best epoch 0, best test acc=3.069
+This epoch takes 26 seconds 
+still need around 44.29 mins to finish this session
+epo 1, test, loss=4.7578 acc=0.0217
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 30.68 mins to finish this session
+epo 2, test, loss=4.7025 acc=0.0210
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 30.12 mins to finish this session
+epo 3, test, loss=4.4812 acc=0.0188
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 29.64 mins to finish this session
+epo 4, test, loss=4.5288 acc=0.0241
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 29.60 mins to finish this session
+epo 5, test, loss=4.4618 acc=0.0271
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 29.52 mins to finish this session
+epo 6, test, loss=4.4186 acc=0.0241
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 28.73 mins to finish this session
+epo 7, test, loss=4.5177 acc=0.0155
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 28.09 mins to finish this session
+epo 8, test, loss=4.6955 acc=0.0117
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 28.62 mins to finish this session
+epo 9, test, loss=4.5679 acc=0.0169
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 28.18 mins to finish this session
+epo 10, test, loss=4.6703 acc=0.0134
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 28.32 mins to finish this session
+epo 11, test, loss=4.6018 acc=0.0134
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 27.86 mins to finish this session
+epo 12, test, loss=4.5764 acc=0.0238
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 26.87 mins to finish this session
+epo 13, test, loss=4.6314 acc=0.0152
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 26.81 mins to finish this session
+epo 14, test, loss=4.5600 acc=0.0192
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 26.85 mins to finish this session
+epo 15, test, loss=4.4526 acc=0.0234
+best epoch 0, best test acc=3.069
+This epoch takes 19 seconds 
+still need around 26.99 mins to finish this session
+epo 16, test, loss=4.4189 acc=0.0162
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 26.08 mins to finish this session
+epo 17, test, loss=4.4478 acc=0.0176
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 25.11 mins to finish this session
+epo 18, test, loss=4.5175 acc=0.0155
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 25.70 mins to finish this session
+epo 19, test, loss=4.6786 acc=0.0107
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 25.55 mins to finish this session
+epo 20, test, loss=4.6221 acc=0.0114
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 25.15 mins to finish this session
+epo 21, test, loss=4.6409 acc=0.0117
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 24.54 mins to finish this session
+epo 22, test, loss=4.6063 acc=0.0193
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 23.77 mins to finish this session
+epo 23, test, loss=4.5625 acc=0.0159
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 24.09 mins to finish this session
+epo 24, test, loss=4.6537 acc=0.0121
+best epoch 0, best test acc=3.069
+This epoch takes 19 seconds 
+still need around 24.28 mins to finish this session
+epo 25, test, loss=4.4862 acc=0.0152
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 22.92 mins to finish this session
+epo 26, test, loss=4.5886 acc=0.0134
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 23.26 mins to finish this session
+epo 27, test, loss=4.5204 acc=0.0197
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 22.10 mins to finish this session
+epo 28, test, loss=4.4487 acc=0.0162
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 22.64 mins to finish this session
+epo 29, test, loss=4.4682 acc=0.0200
+best epoch 0, best test acc=3.069
+This epoch takes 19 seconds 
+still need around 22.58 mins to finish this session
+epo 30, test, loss=4.4731 acc=0.0255
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 22.08 mins to finish this session
+epo 31, test, loss=4.4854 acc=0.0183
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 21.61 mins to finish this session
+epo 32, test, loss=4.4465 acc=0.0210
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 20.79 mins to finish this session
+epo 33, test, loss=4.5127 acc=0.0131
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 20.52 mins to finish this session
+epo 34, test, loss=4.3420 acc=0.0252
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 20.89 mins to finish this session
+epo 35, test, loss=4.4507 acc=0.0238
+best epoch 0, best test acc=3.069
+This epoch takes 18 seconds 
+still need around 20.44 mins to finish this session
+epo 36, test, loss=4.3373 acc=0.0283
+best epoch 0, best test acc=3.069
+This epoch takes 19 seconds 
+still need around 20.36 mins to finish this session
+epo 37, test, loss=4.3065 acc=0.0321
+********A better model is found!!**********
+Saving model to :checkpoint/cub200/fact/ft_cos-avg_cos-data_init-start_0/Cosine-Epo_100-Lr_0.0050Bal0.01-LossIter50-T_16.00/session0_max_acc.pth
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 19.72 mins to finish this session
+epo 38, test, loss=4.3040 acc=0.0228
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 19.22 mins to finish this session
+epo 39, test, loss=4.3202 acc=0.0264
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 19.20 mins to finish this session
+epo 40, test, loss=4.3584 acc=0.0217
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 18.78 mins to finish this session
+epo 41, test, loss=4.2989 acc=0.0190
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 18.33 mins to finish this session
+epo 42, test, loss=4.2665 acc=0.0231
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 17.56 mins to finish this session
+epo 43, test, loss=4.2433 acc=0.0252
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 17.93 mins to finish this session
+epo 44, test, loss=4.3222 acc=0.0217
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 17.65 mins to finish this session
+epo 45, test, loss=4.2764 acc=0.0278
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 17.09 mins to finish this session
+epo 46, test, loss=4.3319 acc=0.0311
+best epoch 37, best test acc=3.207
+This epoch takes 18 seconds 
+still need around 16.77 mins to finish this session
+epo 47, test, loss=4.2433 acc=0.0352
+********A better model is found!!**********
+Saving model to :checkpoint/cub200/fact/ft_cos-avg_cos-data_init-start_0/Cosine-Epo_100-Lr_0.0050Bal0.01-LossIter50-T_16.00/session0_max_acc.pth
+best epoch 47, best test acc=3.517
+This epoch takes 18 seconds 
+still need around 16.40 mins to finish this session
+epo 48, test, loss=4.2960 acc=0.0272
+best epoch 47, best test acc=3.517
+This epoch takes 18 seconds 
+still need around 16.15 mins to finish this session
+epo 49, test, loss=4.2234 acc=0.0323
+best epoch 47, best test acc=3.517
+This epoch takes 18 seconds 
+still need around 15.91 mins to finish this session
+epo 50, test, loss=5.1589 acc=0.0176
+best epoch 47, best test acc=3.517
+This epoch takes 23 seconds 
+still need around 19.94 mins to finish this session
+epo 51, test, loss=4.9108 acc=0.0124
+best epoch 47, best test acc=3.517
+This epoch takes 21 seconds 
+still need around 17.69 mins to finish this session
